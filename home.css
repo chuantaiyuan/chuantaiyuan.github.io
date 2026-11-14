@@ -30,7 +30,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .skip-link:focus { transform: translateY(0); }
 .site-nav { display: flex; flex-wrap: wrap; gap: .35rem 1.3rem; justify-content: flex-end; padding: .8rem 0; border-bottom: 1px solid var(--line); }
 .site-nav a { font-size: .9375rem; text-decoration: none; }
-.profile { display: grid; grid-template-columns: 17rem minmax(0, 1fr); grid-template-rows: auto 1fr; grid-template-areas: "portrait details" "portrait intro"; column-gap: 1.75rem; row-gap: .7rem; padding: 1.5rem 0 .5rem; }
+.profile { display: grid; grid-template-columns: 15rem minmax(0, 1fr); grid-template-rows: auto 1fr; grid-template-areas: "portrait details" "portrait intro"; column-gap: 1.75rem; row-gap: .7rem; padding: 1.5rem 0 .5rem; }
 .profile-portrait { grid-area: portrait; align-self: center; width: 100%; aspect-ratio: 3 / 4; display: grid; place-items: center; }
 .profile-photo { display: block; width: 94%; height: auto; }
 .profile-details { grid-area: details; align-self: start; min-width: 0; }
