@@ -11,8 +11,9 @@ content, photo, and all biographical/CV data belong to Chuantai Yuan.
 
 - **Name / affiliation / contact**: `<header class="profile" id="top">` in
   [`index.html`](index.html)
-- **Photo**: `assets/img/headshot.svg` — replace with a real photo (update
-  the `<img src>`/`width`/`height` in `index.html` to match)
+- **Photo**: `assets/img/chuantaiyuan.jpg` (720×960, 3:4) — to replace it,
+  overwrite the file, or update the `<img src>`/`width`/`height` in
+  `index.html` if the new photo has a different name or size
 - **Research introduction / biography**: the empty `<div class="intro">`
   inside the profile header — currently reserved but intentionally blank
   (see the `<!-- Future Research Introduction -->` comment); adding text
