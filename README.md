@@ -11,7 +11,7 @@ content, photo, and all biographical/CV data belong to Chuantai Yuan.
 
 - **Name / affiliation / contact**: `<header class="profile" id="top">` in
   [`index.html`](index.html)
-- **Photo**: `assets/img/chuantaiyuan-headshot.jpg` (720×960, 3:4) — to
+- **Photo**: `assets/img/chuantaiyuan-headshot-2.jpg` (720×720, square) — to
   replace it, add the new photo under a new file name and update the
   `<img src>` (and `width`/`height` if the size differs) in `index.html`;
   overwriting the same file name leaves visitors' browsers showing the
